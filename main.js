@@ -10323,7 +10323,7 @@ var $author$project$View$viewQuiz = F3(
 										$elm$html$Html$button,
 										_List_fromArray(
 											[
-												$elm$html$Html$Attributes$class('button'),
+												$elm$html$Html$Attributes$class('button button_small button_center'),
 												$elm$html$Html$Events$onClick(
 												$author$project$Messages$Quiz($author$project$Messages$Next))
 											]),
